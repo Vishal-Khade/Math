@@ -1,9 +1,5 @@
-Here is the solution for **Slip No. 1** in markdown format. You can copy and paste this directly into a `.md` file for use on GitHub:
-
----
 
 # Slip No. 1
-
 ### Q1.1
 **Evaluate the following expressions:**
 
