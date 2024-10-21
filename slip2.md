@@ -1,4 +1,4 @@
-```markdown
+
 # Slip No. 2
 
 ## Q.1. Attempt any two of the following. [10]
